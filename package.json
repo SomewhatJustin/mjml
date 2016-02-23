@@ -83,6 +83,7 @@
     "lodash": "^4.0.1",
     "react": "^0.14.3",
     "react-addons-perf": "^0.14.3",
-    "react-dom": "0.14.2"
+    "react-dom": "0.14.2",
+    "mjml": "https://github.com/SomewhatJustin/mjml/tarball/0d5c0f776faf20c574cd9bd91252b8fa0349a746"
   }
 }
