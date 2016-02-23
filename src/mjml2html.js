@@ -212,7 +212,7 @@ const internals = {
   </style>
   <!--[if !mso]><!-->
   <style type="text/css">
-    @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,500,700,300);
+    @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,400italic,700);
   </style>
   <style type="text/css">
     @media only screen and (max-width:480px) {
@@ -220,7 +220,7 @@ const internals = {
       @viewport { width:320px; }
     }
   </style>
-  <link href="https://fonts.googleapis.com/css?family=Ubuntu:400,500,700,300" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400italic,700" rel="stylesheet" type="text/css">
   <!--<![endif]-->
 </head>
 <body id="YIELD_MJML">
