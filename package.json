@@ -74,7 +74,7 @@
     "mocha": "^2.3.4"
   },
   "dependencies": {
-    "mjml": "git://github.com/SomewhatJustin/mjml.git",
+    "mjml": "git://github.com/SomewhatJustin/mjml.git#0d5c0f776faf20c574cd9bd91252b8fa0349a746",
     "commander": "^2.9.0",
     "html-minify": "^0.3.1",
     "cheerio": "^0.19.0",
